@@ -2,7 +2,7 @@
 
 This website provides information about Vecta Corporation which offers scalable business solutions to help companies reach prospects, convert prospects to customers, and retain customer.
 
-## Wesite Structure
+## Website Structure
 The website contains the following four paragraphs :
 * Our Solutions
 * Client Testimonials
@@ -25,7 +25,7 @@ Contains the contact information of the corporation.
 Enlists the management team on board.
 
 ## Built with :
-* [HTML5](https://www.w3.org/html/) - Software solution stack
+* [HTML](https://www.w3.org/html/) - Markup Language
 * [Visual Studio Code](https://code.visualstudio.com/) - Code Editor 
 
 ## License :
