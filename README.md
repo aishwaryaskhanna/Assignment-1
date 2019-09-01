@@ -4,9 +4,9 @@ This website provides information about Vecta Corporation which offers scalable 
 
 ## The solutions paragraph  :
 Represents the current versions of the three services offered:
-1.vProspect 2.0 : Provides strategies to target audience and brand management strategy.
-2.vConvert 2.0 : Provides interactive UI services.
-3.vRetain 1.0 : Provides customer relationship management services.
+* vProspect 2.0 : Provides strategies to target audience and brand management strategy.
+* vConvert 2.0 : Provides interactive UI services.
+* vRetain 1.0 : Provides customer relationship management services.
 
 ## The Client testimonials paragraph :
 Contains the testimonial given by the executives of two corporations.
@@ -18,7 +18,8 @@ Contains the contact information of the corporation.
 Enlists the management team on board.
 
 ## Built with :
-HTML5 on Visual Studio Code 
+* [HTML5](https://www.w3.org/html/) - Software solution stack
+* [Visual Studio Code](https://code.visualstudio.com/) - Code Editor 
 
 ## License :
 None
