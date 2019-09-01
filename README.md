@@ -18,7 +18,7 @@ Contains the contact information of the corporation.
 Enlists the management team on board.
 
 ## Built with :
-HTML5
+HTML5 on Visual Studio Code 
 
 ## License :
 None
